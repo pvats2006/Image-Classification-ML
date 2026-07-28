@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Generated dataset
+data/
+!data/README.md
+
+# Trained models
+models/
+!models/README.md
+
+# Reports
+reports/
+
+# Temporary files
+temp/
+*.log
+
+# IDE
+.vscode/
+.idea/
